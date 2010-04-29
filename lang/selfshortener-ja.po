@@ -1,0 +1,240 @@
+# Translation of the WordPress plugin Self Shortener 0.1 by Giraffy Inc..
+# Copyright (C) 2010 Giraffy Inc.
+# This file is distributed under the same license as the Self Shortener package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Self Shortener 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/selfshortener\n"
+"POT-Creation-Date: 2010-04-21 10:33+0900\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: selfshortener.php:93 selfshortener.php:260
+msgid "Edit Link"
+msgstr "リンクの編集"
+
+#: selfshortener.php:94 selfshortener.php:268 selfshortener.php:417
+msgid "New Link"
+msgstr "新規リンク作成"
+
+#: selfshortener.php:99 selfshortener.php:100 selfshortener.php:399
+msgid "Manage Links"
+msgstr "リンク管理"
+
+#: selfshortener.php:105 selfshortener.php:106
+msgid "General Options"
+msgstr "一般設定"
+
+#: selfshortener.php:203
+msgid "Permission denied"
+msgstr "許可がありません"
+
+#: selfshortener.php:222
+msgid "Link Key too short"
+msgstr "リンクキーが短かすぎます"
+
+#: selfshortener.php:224
+msgid "Link Key too long"
+msgstr "リンクキーが長すぎます"
+
+#: selfshortener.php:226
+msgid "Invalid Link Key: you can only use alphanumeric and \"-_,\"."
+msgstr "リンクキーが正しくありません: 半角英数字と - _ , . のみを使用できます"
+
+#: selfshortener.php:229
+msgid "Link Key already used."
+msgstr "リンクキーがすでに使用されています"
+
+#: selfshortener.php:233
+msgid "Link-To URL must be started with \"http://\", \"https://\", or \"/\"."
+msgstr "リンク先 URL は \"http://\"、 \"https://\"、または \"/\" で始まる必要があります。"
+
+#: selfshortener.php:280
+msgid "Link ID"
+msgstr "リンクID"
+
+#: selfshortener.php:340
+msgid "Registered"
+msgstr "登録済"
+
+#: selfshortener.php:283
+msgid "Deleted"
+msgstr "削除済"
+
+#: selfshortener.php:288
+msgid "Link Key"
+msgstr "リンクキー"
+
+#: selfshortener.php:375
+msgid "(optional)"
+msgstr "(任意)"
+
+#: selfshortener.php:375
+msgid "You can specify arbitrary link key (%d-%d), or generate random key"
+msgstr "リンクキー(%d-%d)を入力するか、空欄にしてランダムに生成します"
+
+#: selfshortener.php:388
+msgid "You can change link key length for random generation (%d-%d)"
+msgstr "自動生成時のリンクキー長を変更できます (%d-%d)"
+
+#: selfshortener.php:296
+msgid "Old Link Key"
+msgstr "旧リンクキー"
+
+#: selfshortener.php:301 selfshortener.php:438
+msgid "Short URL"
+msgstr "短縮URL"
+
+#: selfshortener.php:337 selfshortener.php:353
+msgid "Status"
+msgstr "状態"
+
+msgid "Input Long URL to shorten."
+msgstr "短縮する対象の、もとの長い URL を入力します。"
+
+#: selfshortener.php:305
+msgid "Link-To URL"
+msgstr "リンク先URL"
+
+#: selfshortener.php:313 selfshortener.php:439
+msgid "Author"
+msgstr "作成者"
+
+#: selfshortener.php:317
+msgid "Create Time"
+msgstr "作成日時"
+
+#: selfshortener.php:354
+msgid "Not yet registered"
+msgstr "まだ登録されていません"
+
+#: selfshortener.php:330
+msgid "Update"
+msgstr "更新"
+
+#: selfshortener.php:330
+msgid "Register"
+msgstr "登録"
+
+#: selfshortener.php:335
+msgid "Delete"
+msgstr "削除"
+
+#: selfshortener.php:338
+msgid "Restore"
+msgstr "復元"
+
+#: selfshortener.php:385
+msgid "&laquo;"
+msgstr ""
+
+#: selfshortener.php:386
+msgid "&raquo;"
+msgstr ""
+
+#: selfshortener.php:406
+msgid "Search"
+msgstr "検索"
+
+#: selfshortener.php:409
+msgid "Only Deleted"
+msgstr "削除済のみ"
+
+#: selfshortener.php:413
+msgid "Clear"
+msgstr "クリア"
+
+#: selfshortener.php:421
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "%s&#8211;%s を表示 (全 %s 件)"
+
+#: selfshortener.php:436
+msgid "Key"
+msgstr "キー"
+
+#: selfshortener.php:437
+msgid "URL"
+msgstr "URL"
+
+#: selfshortener.php:522
+msgid "Prefix path required"
+msgstr "プレフィクスのパスは必須です"
+
+#: selfshortener.php:525
+#, php-format
+msgid "Invalid character: %s"
+msgstr "使用できない文字です: %s"
+
+#: selfshortener.php:538
+msgid "Link Key Length required"
+msgstr "リンクキー長は必須です"
+
+#: selfshortener.php:540
+msgid "Invalid Link Key Length format"
+msgstr "リンクキー長の形式が正しくありません"
+
+#: selfshortener.php:543
+msgid "Link Key Length too small"
+msgstr "リンクキー長の値が小さすぎます"
+
+#: selfshortener.php:545
+msgid "Link Key Length too large"
+msgstr "リンクキー長の値が大きすぎます"
+
+#: selfshortener.php:472
+msgid "Self Shortener Setting"
+msgstr "Self Shortener 設定"
+
+#: selfshortener.php:478
+msgid "Prefix path"
+msgstr "プレフィクスのパス"
+
+#: selfshortener.php:482
+msgid "Prefix path (directory) to use for Self Shortener."
+msgstr "Self Shortener で使用するプレフィクスパス(ディレクトリー)"
+
+#: selfshortener.php:525
+msgid ""
+"You should check your .htaccess to confirm the URL under the specified path "
+"is correctly handled by WordPress."
+msgstr "設定ファイル .htaccess などを調べて、ここで指定したパス以下の URL が "
+"WordPress によって正しく扱われることを確認してください。"
+
+#: selfshortener.php:486
+msgid "Link Key Length"
+msgstr "リンクキー長"
+
+#: selfshortener.php:491
+msgid "Default length of auto-generate link key. (%d-%d)"
+msgstr "自動生成するリンクキーでのデフォルトのキー長 (%d-%d)"
+
+#: selfshortener.php:496
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#. Plugin Name of the plugin/theme
+msgid "Self Shortener"
+msgstr "Self Shortener"
+
+#. #-#-#-#-#  selfshortener.pot (Self Shortener 0.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  selfshortener.pot (Self Shortener 0.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://giraffy.jp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "URL Shortener by your WordPress itself."
+msgstr "あなたの WordPress 自体で動作する URL 短縮サービス。"
+
+#. Author of the plugin/theme
+msgid "Giraffy Inc."
+msgstr "株式会社ジラフィー"
