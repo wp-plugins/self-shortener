@@ -1,9 +1,9 @@
 === Self Shortener ===
 Contributors: oishikazuo
 Tags: plugin,url,admin
-Requires at least: 2.7
+Requires at least: 2.8
 Tested up to: 2.9.2
-Stable tag: 0.1
+Stable tag: 0.1.1
 
 URL Shortener handled by your WordPress site itself.
 
@@ -21,7 +21,7 @@ Self Shortener can:
 
 
 See http://www.giraffy.jp/product_en/wordpress/selfshortener/ .
-(In Japanese, http://www.giraffy.jp/product/wordpress/selfshortener/)
+(In Japanese, http://www.giraffy.jp/product/wordpress/selfshortener/ )
 
 
 == Installation ==
@@ -33,7 +33,17 @@ See http://www.giraffy.jp/product_en/wordpress/selfshortener/ .
 3. Setup plugin using Self Shorterner menu.
 
 
+= Uninstall =
+
+To uninstall Self Shortener plugin, Deactivate and Delete from Plugin menu.
+
+Warning: When plugin deleted, all related data (shorten URLs) are also deleted.
+
+
 == Changelog ==
+
+= 0.1.1 =
+* Fix documentation.
 
 = 0.1 =
 * First release.
