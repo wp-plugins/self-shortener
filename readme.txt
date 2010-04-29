@@ -26,7 +26,7 @@ See http://www.giraffy.jp/product_en/wordpress/selfshortener/ .
 
 == Installation ==
 
-1. Upload 'selfshortener' directory into '/wp-content/plugins/' directory.
+1. Upload 'self-shortener' directory into '/wp-content/plugins/' directory.
 
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
