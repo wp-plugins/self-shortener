@@ -6,7 +6,7 @@
  */
 /*
 Plugin Name: Self Shortener
-Plugin URI: http://giraffy.jp/product_en/wordpress/selfshortener/
+Plugin URI: http://giraffy.jp/products_en/wordpress/selfshortener/
 Description: URL Shortener by your WordPress itself.
 Version: 0.1
 Author: Giraffy Inc.
