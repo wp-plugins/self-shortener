@@ -2,13 +2,13 @@
 /**
  * @package Self_Shortener
  * @author Giraffy Inc.
- * @version 0.1
+ * @version 0.1.2
  */
 /*
 Plugin Name: Self Shortener
 Plugin URI: http://giraffy.jp/products_en/wordpress/selfshortener/
 Description: URL Shortener by your WordPress itself.
-Version: 0.1
+Version: 0.1.2
 Author: Giraffy Inc.
 Author URI: http://giraffy.jp/index_en/
 License: GPL2
